@@ -205,8 +205,6 @@ philosophy: "ship fast, learn faster"
 <a href="https://github.com/asmit-inzanist">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
-<br>
-<img src="https://komarev.com/ghpvc/?username=asmit-inzanist&color=6e40c9&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
