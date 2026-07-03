@@ -147,17 +147,18 @@ philosophy: "ship fast, learn faster"
 </tr>
 <tr>
 <td width="50%">
-<h3 align="center">🚀 AI for Bharat</h3>
+<h3 align="center">📚 DocMind — AI Study Agent</h3>
 <p align="center">
-<a href="https://github.com/asmit-inzanist/AI-for-Bharat">
+<a href="https://github.com/asmit-inzanist/eduagent">
 <img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 </p>
-<p align="center"><em>AI-powered influencer marketing platform connecting brands with creators. Built with Node.js, Python, Kiro AI & AWS.</em></p>
+<p align="center"><em>Document-aware AI study agent combining RAG (PDF upload) with real-time web search for academic research. Built with FastAPI, React, LangChain & Gemini.</em></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 </p>
 </td>
 <td width="50%">
