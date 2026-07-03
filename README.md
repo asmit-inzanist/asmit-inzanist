@@ -117,20 +117,6 @@ philosophy: "ship fast, learn faster"
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">🏥 JAN-AIKYA</h3>
-<p align="center">
-<a href="https://github.com/asmit-inzanist/HackHorizon-Hype">
-<img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
-</a>
-</p>
-<p align="center"><em>AI-powered unified health records platform with 4 intelligent agents — prescription extraction, generic medicine alternatives, allergy alerts, and pharmacy discovery.</em></p>
-<p align="center">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/AI_Agents-6e40c9?style=flat-square" />
-<img src="https://img.shields.io/badge/Healthcare-16a34a?style=flat-square" />
-</p>
-</td>
-<td width="50%">
 <h3 align="center">⚽ Football Insights RAG</h3>
 <p align="center">
 <a href="https://github.com/asmit-inzanist/football-insights-RAG">
@@ -142,6 +128,20 @@ philosophy: "ship fast, learn faster"
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</p>
+</td>
+<td width="50%">
+<h3 align="center">🏥 JAN-AIKYA</h3>
+<p align="center">
+<a href="https://github.com/asmit-inzanist/HackHorizon-Hype">
+<img src="https://img.shields.io/badge/VIEW_REPO-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
+</a>
+</p>
+<p align="center"><em>AI-powered unified health records platform with 4 intelligent agents — prescription extraction, generic medicine alternatives, allergy alerts, and pharmacy discovery.</em></p>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/AI_Agents-6e40c9?style=flat-square" />
+<img src="https://img.shields.io/badge/Healthcare-16a34a?style=flat-square" />
 </p>
 </td>
 </tr>
