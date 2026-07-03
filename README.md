@@ -69,9 +69,7 @@ philosophy: "ship fast, learn faster"
 ### 🗄️ Data & Databases
 <br>
 
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,redis&theme=dark" alt="Databases" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=kafka,graphql,elasticsearch&theme=dark" alt="Data" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" />
 
 </td>
 <td align="center" width="33%">
@@ -81,7 +79,7 @@ philosophy: "ship fast, learn faster"
 
 <img src="https://skillicons.dev/icons?i=docker,aws,gcp,kubernetes&theme=dark" alt="DevOps" />
 <br><br>
-<img src="https://skillicons.dev/icons?i=linux,git,github,githubactions&theme=dark" alt="Tools" />
+<img src="https://skillicons.dev/icons?i=linux,git,github&theme=dark" alt="Tools" />
 
 </td>
 </tr>
