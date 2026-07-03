@@ -68,8 +68,12 @@ philosophy: "ship fast, learn faster"
 
 ### 🗄️ Data & Databases
 <br>
+<br>
 
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" />
+<br>
+<br>
+<br>
 
 </td>
 <td align="center" valign="middle" width="33%">
