@@ -54,7 +54,7 @@ philosophy: "ship fast, learn faster"
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" valign="middle" width="33%">
 
 ### 🧠 AI / ML & Backend
 <br>
@@ -64,7 +64,7 @@ philosophy: "ship fast, learn faster"
 <img src="https://skillicons.dev/icons?i=java,tensorflow,pytorch&theme=dark" alt="ML Stack" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" valign="middle" width="33%">
 
 ### 🗄️ Data & Databases
 <br>
@@ -72,7 +72,7 @@ philosophy: "ship fast, learn faster"
 <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="Databases" />
 
 </td>
-<td align="center" width="33%">
+<td align="center" valign="middle" width="33%">
 
 ### ☁️ DevOps & Cloud
 <br>
